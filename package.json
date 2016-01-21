@@ -1,7 +1,7 @@
 {
   "name": "promise_art",
   "version": "1.0.0",
-  "description": "example on how to use 'q' promise library, using node.js",
+  "description": "example on how to use 'q' promise library, using node.js, calling markitondemand web server to pull stock symbol information",
   "main": "./src/app.js",
   "dependencies": {
     "q": "^1.4.1"
