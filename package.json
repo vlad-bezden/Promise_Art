@@ -1,0 +1,21 @@
+{
+  "name": "promise_art",
+  "version": "1.0.0",
+  "description": "example on how to use 'q' promise library, using node.js",
+  "main": "./src/app.js",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises",
+    "q",
+    "node",
+    "vs code"
+  ],
+  "author": "Vlad Bezden",
+  "license": "ISC"
+}
