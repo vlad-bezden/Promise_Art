@@ -9,3 +9,6 @@ npm install
 ```
 node ./src/app.js MSFT
 ```
+
+.vscode/launch.json file is used for node debuging in VS Code
+
